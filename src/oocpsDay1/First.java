@@ -1,3 +1,9 @@
+//question : 1 define a class CARRENTAL with the following details :
+//Class Member are : car1d of int type, carType of string type and rent of float type.
+//Defie GetCar() method which accepts Carid and CarType.
+//GetRent() method which return rent of the car on the basis of car type, i.e. small car = 1000,van = 800,suv=2500
+//showcar() method which allow user to view the contents of car i.e. id,type and rent.
+
 package oocpsDay1;
 
 public class First {
