@@ -1,5 +1,4 @@
 package oocpsDay1;
-import 
 import java.util.Scanner;
 
 public class ArrayofEmployee {
@@ -15,7 +14,7 @@ public class ArrayofEmployee {
 		
 		for (int i = 0; i<2; i++) {
 			Scanner sc = new Scanner(System.in);
-			System.out.println("Enter Mame :");
+			System.out.println("Enter Name :");
 			emp[i].setName(sc.next());
 			System.out.println("Enter Email :");
 			emp[i].setEmail(sc.next());
